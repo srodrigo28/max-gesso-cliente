@@ -70,13 +70,13 @@ function App() {
     {
       name: "Ana Carolina Santos",
       rating: 5,
-      text: "Escolhi a Max Gesso para renovar meu lar e fiquei impressionada com a atenção aos detalhes e o resultado final impecável.",
+      text: "Escolhi a M&M Construção para renovar meu lar e fiquei impressionada com a atenção aos detalhes e o resultado final impecável.",
       date: "26 de junho de 2024"
     },
     {
       name: "Marcos Oliveira",
       rating: 5,
-      text: "A Max Gesso transformou meu escritório com suas divisórias elegantes e funcionais. O compromisso com a qualidade me conquistou.",
+      text: "A M&M Construção transformou meu escritório com suas divisórias elegantes e funcionais. O compromisso com a qualidade me conquistou.",
       date: "27 de junho de 2024"
     }
   ]
@@ -142,7 +142,7 @@ function App() {
               whileHover={{ scale: 1.05 }}
               className="text-2xl font-bold text-orange-600"
             >
-              Max Gesso
+              M&M Construção
             </motion.div>
             {/* Contato - mobile */} 
               <a href="https://api.whatsapp.com/send?phone=5562982507005" target="_blank">
@@ -311,10 +311,10 @@ function App() {
             >
               <Badge className="mb-4 bg-orange-100 text-orange-800">Por que nos contratar?</Badge>
               <h2 className="text-4xl lg:text-5xl font-bold text-gray-900 mb-6">
-                O Max Gesso
+                O M&M Construção
               </h2>
               <p className="text-xl text-gray-600 mb-8 leading-relaxed">
-                A Max Gesso transforma espaços com sua expertise em design e acabamentos de alto padrão. 
+                A M&M Construção transforma espaços com sua expertise em design e acabamentos de alto padrão. 
                 Cada projeto reflete inovação, qualidade e beleza.
               </p>
               
@@ -411,7 +411,7 @@ function App() {
                 Economizando seu dinheiro com serviço de qualidade
               </h2>
               <p className="text-xl text-orange-100 max-w-3xl mx-auto">
-                Na Max Gesso Designer e Acabamentos, economize sem abrir mão da qualidade. 
+                Na M&M Construção Designer e Acabamentos, economize sem abrir mão da qualidade. 
                 Oferecemos soluções que combinam eficiência financeira com acabamento impecável.
               </p>
             </motion.div>
@@ -557,7 +557,7 @@ function App() {
         <div className="container mx-auto px-4">
           <div className="grid md:grid-cols-3 gap-8">
             <div>
-              <h3 className="text-2xl font-bold text-orange-400 mb-4">Max Gesso</h3>
+              <h3 className="text-2xl font-bold text-orange-400 mb-4">M&M Construção</h3>
               <p className="text-gray-300 mb-4">
                 Transformando espaços com elegância e sofisticação através de soluções inovadoras em gesso e drywall.
               </p>
@@ -602,7 +602,7 @@ function App() {
           </div>
           
           <div className="border-t border-gray-800 mt-8 pt-8 text-center text-gray-400">
-            <p>&copy; 2024 Max Gesso. Todos os Direitos Reservados</p>
+            <p>&copy; 2024 M&M Construção. Todos os Direitos Reservados</p>
           </div>
         </div>
       </footer>
