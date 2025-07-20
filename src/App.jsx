@@ -182,10 +182,10 @@ function App() {
                 <Clock className="w-4 h-4 text-orange-600" />
                 <span>Seg a Sex 7:00-18:00</span>
               </div>
-              <div className="flex items-center space-x-2">
+              {/* <div className="flex items-center space-x-2">
                 <Mail className="w-4 h-4 text-orange-600" />
                 <span>contato@megagessogo.com.br</span>
-              </div>
+              </div> */}
             </div>
           </div>
         </div>
